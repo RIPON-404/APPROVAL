@@ -64,3 +64,4 @@ Inception =[KALA]=10245245=[SQUAD]=
 Taskin =[KALA]=10302302=[SQUAD]=
 khan ahomeed =[KALA]=10297297=[SQUAD]=
 Raaz2 =[KALA]=10296296=[SQUAD]=
+Bakth =[KALA]=10267267=[SQUAD]=
