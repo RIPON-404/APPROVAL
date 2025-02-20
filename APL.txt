@@ -20,3 +20,5 @@ Taskin-1
 Khan 2 =[KALA]=10290290=[SQUAD]=
 Shahadat =[KALA]=10301301=[SQUAD]=
 Diyar =[KALA]=10480480=[SQUAD]=
+=[KALA]=10673673=[SQUAD]=
+Abbas
