@@ -8,3 +8,4 @@ Raaz =[KALA]=100022=[SQUAD]=
 Marley =[KALA]=10227227=[SQUAD]=
 Dhanushka =[KALA]=10214214=[SQUAD]=
 Atikul =[KALA]=10461461=[SQUAD]=
+Rajesh =[KALA]=10409409=[SQUAD]=
